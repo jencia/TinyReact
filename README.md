@@ -153,7 +153,7 @@ React 的 diff 算法采用同级比较，深度优先的方式对比
 
 处理逻辑：
 
-- 函数式组件时，创建新的 VirtualDOM 对象，调用 [diff](diff.js) 方法
+- 函数式组件时，创建新的 VirtualDOM 对象，调用 [diff](#diff.js) 方法
 - 类组件时
 
     - 在对应位置先后调用组件相关生命周期 `componentWillReceiveProps`、`shouldComponentUpdate`、`componentWillUpdate`、`componentDidUpdate`

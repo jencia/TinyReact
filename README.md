@@ -1,6 +1,6 @@
 # TinyReact
 
-简版 React，为了学习 React 底层原理而开发的小型 React，以及一个用于测试的 TodoList。
+为了学习 React 底层原理，模仿 React 功能开发的小型库，以及一个用于测试的 TodoList。
 
 ## 项目启动说明
 
